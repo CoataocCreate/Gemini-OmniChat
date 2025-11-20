@@ -1,0 +1,5 @@
+{
+  "name": "Gemini OmniChat",
+  "description": "A versatile chat application allowing users to seamlessly switch between different Gemini models (Flash, Lite, Pro) to compare responses and utilize specific model strengths.",
+  "requestFramePermissions": []
+}
